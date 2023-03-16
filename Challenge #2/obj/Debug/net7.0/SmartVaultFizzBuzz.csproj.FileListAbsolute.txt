@@ -1,0 +1,30 @@
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\bin\Debug\net7.0\SmartVaultFizzBuzz.exe
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\bin\Debug\net7.0\SmartVaultFizzBuzz.deps.json
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\bin\Debug\net7.0\SmartVaultFizzBuzz.runtimeconfig.json
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\bin\Debug\net7.0\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\bin\Debug\net7.0\SmartVaultFizzBuzz.pdb
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.AssemblyInfo.cs
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\refint\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.pdb
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\SmartVaultFizzBuzz.genruntimeconfig.cache
+C:\Users\paul_\Documents\Smart Vault\SmartVaultFizzBuzz\obj\Debug\net7.0\ref\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.AssemblyInfo.cs
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\refint\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.pdb
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\bin\Debug\net7.0\SmartVaultFizzBuzz.exe
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\bin\Debug\net7.0\SmartVaultFizzBuzz.deps.json
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\bin\Debug\net7.0\SmartVaultFizzBuzz.runtimeconfig.json
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\bin\Debug\net7.0\SmartVaultFizzBuzz.dll
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\bin\Debug\net7.0\SmartVaultFizzBuzz.pdb
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\SmartVaultFizzBuzz.genruntimeconfig.cache
+C:\Users\paul_\Documents\Smart Vault\Challenge #2\obj\Debug\net7.0\ref\SmartVaultFizzBuzz.dll
